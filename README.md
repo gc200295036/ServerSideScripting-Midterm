@@ -1,0 +1,2 @@
+# ServerSideScripting-Midterm
+Midterm Practical
